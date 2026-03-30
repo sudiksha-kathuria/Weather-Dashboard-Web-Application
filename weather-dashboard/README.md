@@ -1,4 +1,4 @@
-# 🌤 Atmosphere — Weather Dashboard
+#Atmosphere — Weather Dashboard
 
 A beautiful weather dashboard. No API key required — uses the free Open-Meteo API.
 
